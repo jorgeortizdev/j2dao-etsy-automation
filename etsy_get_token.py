@@ -28,7 +28,7 @@ ETSY_KEYSTRING = "p49zu7qnl7im9tqt8btmm14z"
 # ──────────────────────────────────────────────────────────────────────────────
 
 REDIRECT_URI = "http://localhost:3003/oauth/redirect"
-SCOPES = "listings_w listings_r"
+SCOPES = "listings_w listings_r shops_r shops_w"
 PORT = 3003
 
 # PKCE helpers
