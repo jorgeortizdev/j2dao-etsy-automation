@@ -1,0 +1,5 @@
+.env
+etsy_creds.json
+*.mov
+*.mp4
+.DS_Store
